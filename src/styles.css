@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.converter {
+  background-color: rosybrown;
+  padding: 20px;
+  width: 50%;
+  height: 50vh;
+  margin: 20% 30%;
+  box-shadow: 1px 1px 2px black;
+}
+form {
+  margin-top: 40px;
+}
+input {
+  border-radius: 20px;
+  border: none;
+}
+input:focus {
+  border: none;
+}
+.btcvalue {
+  font-weight: 800;
+}
